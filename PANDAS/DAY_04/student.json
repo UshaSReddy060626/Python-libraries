@@ -1,0 +1,30 @@
+[
+    {
+        "Name":"Amit ",
+        "Marks":91,
+        "City":"Hyderabad",
+        "Date":"2026-03-12",
+        "Subject":"Math"
+    },
+    {
+        "Name":" Neha",
+        "Marks":84,
+        "City":"Bangalore",
+        "Date":"2026-04-18",
+        "Subject":"Science"
+    },
+    {
+        "Name":"Karan",
+        "Marks":77,
+        "City":"Hyderabad",
+        "Date":"2026-05-25",
+        "Subject":"Math"
+    },
+    {
+        "Name":"Divya",
+        "Marks":89,
+        "City":"Pune",
+        "Date":"2026-06-30",
+        "Subject":"Science"
+    }
+]

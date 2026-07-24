@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet"
+href="{{ url_for('static', filename='style.css') }}">
+    <title>Flask</title>
+</head>
+<body>
+<h1>Welcome {{ name }}</h1>
+<img
+src="{{ url_for('static', filename='python.png') }}"
+width="250">
+<script
+src="{{ url_for('static', filename='script.js') }}">
+</script>
+</body>
+</html>
